@@ -1,0 +1,22 @@
+{
+  "name": "huobi-bot",
+  "version": "1.0.0",
+  "description": "调用火币提供的api, 实现查询市场功能",
+  "main": "huobi.js",
+  "scripts": {
+    "c": "node huobi_crawler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kankk/huobi-bot.git"
+  },
+  "author": "Qihua Jian (MangoKK)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kankk/huobi-bot/issues"
+  },
+  "homepage": "https://github.com/kankk/huobi-bot#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
